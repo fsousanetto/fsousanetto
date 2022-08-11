@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Netto
-- 👀 I’m interested in HTML, CSS, JavaScript, Python, Java, Node.JS, Sql Server
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL
+- 👀 I’m interested in HTML, CSS, JavaScript, Python, ReactJS, Node.JS, Sql Server
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, SQL
 - 📫 How to reach me: franciscon238@gmail.com
 
 <!---
