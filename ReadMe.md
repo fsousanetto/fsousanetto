@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋️ Hi, I’m Francisco Netto<br>🔭 I’m currently working on the #TáBarato project<br>🌱 I’m currently learning JS, NodeJS, ReactJS and DB<br>💬 Ask me about the universe and life #HowItAllBegan<br>📫️ How to reach me: franciscon238@gmail.com<br><br>
+👋️ Hi, I’m Francisco Netto<br>💻 I'm a student of systems analysis and development<br>🌱 I’m currently learning JS, NodeJS, ReactJS and DB<br>💬 Ask me about the universe and life #HowItAllBegan<br>📫️ How to reach me: franciscon238@gmail.com<br><br>
 
 
 ## 🌐 Socials:
