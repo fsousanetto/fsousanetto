@@ -1,18 +1,17 @@
 # 👋 Olá, eu sou Francisco Netto
 
-### Analista de Sistemas | Desenvolvedor de Software
+### Analista de Sistemas | Desenvolvedor de Software | QA & Testes
 
-Sou Analista de Sistemas com foco em **desenvolvimento de software**, com experiência na construção de aplicações web, APIs e sistemas voltados para diferentes necessidades de negócio.
+Sou Analista de Sistemas com foco em desenvolvimento de software, com experiência na construção de aplicações web, APIs e sistemas voltados para diferentes necessidades de negócio.
 
-Minha experiência com suporte técnico e sistemas ERP contribuiu para desenvolver uma visão prática de **resolução de problemas, investigação de falhas, análise de regras de negócio e sustentação de sistemas**. Atualmente, direciono essa experiência para o desenvolvimento, com foco em **Frontend, Backend e APIs REST**.
+Minha experiência com suporte técnico e sistemas ERP contribuiu para desenvolver uma visão prática de resolução de problemas, investigação de falhas, análise de regras de negócio e sustentação de sistemas. Hoje, aplico essa experiência no desenvolvimento de aplicações Full Stack, buscando também incorporar práticas de qualidade e testes ao processo de desenvolvimento.
 
 🔭 Atualmente desenvolvendo e aprimorando aplicações web e APIs<br>
-🌱 Aprofundando meus conhecimentos em **TypeScript, React, Node.js, testes e arquitetura de software**<br>
-🧪 Praticando **testes automatizados e TDD**<br>
-🐳 Trabalhando com **Docker, PostgreSQL, Prisma e GitHub Actions**<br>
-☁️ Estudando fundamentos de **Cloud, DevOps e CI/CD**<br>
-💬 Interesse em desenvolvimento web, Backend, APIs e arquitetura de software<br>
-📫 Entre em contato: [**franciscon238@gmail.com**](mailto:franciscon238@gmail.com)
+🌱 Aprofundando meus conhecimentos em TypeScript, React, Node.js, testes e arquitetura de software<br>
+🧪 Praticando testes automatizados, integração e TDD<br>
+🐳 Trabalhando com Docker, PostgreSQL, Prisma e GitHub Actions<br>
+☁️ Estudando fundamentos de Cloud, DevOps e CI/CD<br>
+🔍 Atuando também com QA, investigação de falhas, validação de regras e análise de cenários<br>
 
 ---
 
